@@ -169,14 +169,18 @@ Note: i do have a iPad Air 2 but broken screen but running 10.2
 |iOS 11.4.1   |NO JB|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
 
 
-# Supported Devices iOS 12.0 to iOS 12.0 
+# Supported Devices iOS 12.0 to iOS 12.3 
 |iOS|5S|6|6+|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|Apple TV 4|Apple TV  4K|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------- |---------- |---------- |----------|----------|----------|----------|
 |iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
-|iOS 12.1.1 Beta 1 |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO  |NO|NO  |NO |-|-|NO|NO|
-
+|iOS 12.1.1   |NO |NO|NO |NO|Yes |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.1.2   |NO |NO|NO |NO|NO |Yes |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.1.3   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.1.4   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.2    |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
+|iOS 12.3 3beta   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
 -----------------------------------------------------------------------------------------------------------------------------
 
 I would like to say a big thank you to the people that have helped me make this happen:
@@ -192,5 +196,3 @@ FreeNAS OS for my Home Server's
 Youtube for the vid's that have helped me do this I will list them all soon more to follow when I have spoken to them if I can post they vids
 
 In case anyone is wondering I started using jailbroken devices from the iPhone original 2G,3GS,4S,5S,6S+,8+ I do like the S models. I only have 2 iPads Air 2 and Pro 12.9. I have the Apple TV 3 and 4 sadly both not jailbroken yet and I have the Apple Watch 1st gen. I now have the 5C I got of eBay on 10.3.3 sadly I don't have any of the SHSH2 blobs saved I just want to help put something back into the community.
-
-
