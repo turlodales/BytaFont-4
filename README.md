@@ -1,4 +1,4 @@
-# BytaFont-4 (64bit) For iOS 11.0 to 12.1
+# BytaFont-4 (64bit) For iOS 11.0 to 12.4.1
 
 Note this is a copy of my other post this will go tho a few changes be it is finished to a work in progress
 
